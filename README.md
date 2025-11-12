@@ -9,4 +9,3 @@ Files included:
 - `rock paper.js` — game logic and interactions
 - `images/` — assets (rock, paper, scissors icons)
 
-Enjoy!
